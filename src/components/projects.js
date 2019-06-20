@@ -24,27 +24,29 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/img-1.jpg)" }}
+                  style={{ backgroundImage: "url(images/bandhunt.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 01</a>
+                        <a href="https://tbrandonhowell.github.io/BandHunt/">
+                          BandHunt application
+                        </a>
                       </h3>
                       <span>Website</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="https://github.com/tbrandonhowell/BandHunt">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="website">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="heart">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -64,22 +66,24 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 02</a>
+                        <a href="https://jgwynn36.github.io/Word-Guess-Game/">
+                          Javascript
+                        </a>
                       </h3>
                       <span>Animation</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="#share">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="eye">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="heart">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -94,27 +98,29 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/img-3.jpg)" }}
+                  style={{ backgroundImage: "url(images/mathmania.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 03</a>
+                        <a href="https://math-mania.herokuapp.com/">
+                          Full-Stack Application
+                        </a>
                       </h3>
                       <span>Illustration</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="#share">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="eye">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="heart">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -129,27 +135,29 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/img-4.jpg)" }}
+                  style={{ backgroundImage: "url(images/game.jpg)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 04</a>
+                        <a href="https://jgwynn36.github.io/best-artist/">
+                          Best Artist 
+                        </a>
                       </h3>
-                      <span>Application</span>
+                      <span>Illustration</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -164,27 +172,29 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/img-5.jpg)" }}
+                  style={{ backgroundImage: "url(images/crystal.jpeg)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 05</a>
+                        <a href="https://jgwynn36.github.io/unit-4-game/">
+                          Crystal Game
+                        </a>
                       </h3>
                       <span>Graphic, Logo</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -199,27 +209,29 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/img-6.jpg)" }}
+                  style={{ backgroundImage: "url(images/triviagame.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 06</a>
+                        <a href="https://jgwynn36.github.io/TriviaGame/">
+                          TriviaGame
+                        </a>
                       </h3>
                       <span>Web Design</span>
                       <p className="icon">
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#">
+                          <a href="#/">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -232,7 +244,10 @@ export default class Projects extends Component {
             <div className="row">
               <div className="col-md-12 animate-box">
                 <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
+                  <a
+                    href="#\"
+                    className="btn btn-primary btn-lg btn-load-more"
+                  >
                     Load more <i className="icon-reload" />
                   </a>
                 </p>
