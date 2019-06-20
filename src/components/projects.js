@@ -73,7 +73,7 @@ export default class Projects extends Component {
                       <span>Animation</span>
                       <p className="icon">
                         <span>
-                          <a href="#share">
+                          <a href="share">
                             <i className="icon-share3" />
                           </a>
                         </span>
@@ -110,7 +110,7 @@ export default class Projects extends Component {
                       <span>Illustration</span>
                       <p className="icon">
                         <span>
-                          <a href="#share">
+                          <a href="share">
                             <i className="icon-share3" />
                           </a>
                         </span>
@@ -147,17 +147,17 @@ export default class Projects extends Component {
                       <span>Illustration</span>
                       <p className="icon">
                         <span>
-                          <a href="#/">
+                          <a href="one">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="two">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="three">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -184,17 +184,17 @@ export default class Projects extends Component {
                       <span>Graphic, Logo</span>
                       <p className="icon">
                         <span>
-                          <a href="#/">
+                          <a href="something">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="else">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="somewhere">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -221,17 +221,17 @@ export default class Projects extends Component {
                       <span>Web Design</span>
                       <p className="icon">
                         <span>
-                          <a href="#/">
+                          <a href="share">
                             <i className="icon-share3" />
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="icon">
                             <i className="icon-eye" /> 100
                           </a>
                         </span>
                         <span>
-                          <a href="#/">
+                          <a href="icon">
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
@@ -245,7 +245,7 @@ export default class Projects extends Component {
               <div className="col-md-12 animate-box">
                 <p>
                   <a
-                    href="#\"
+                    href="btn"
                     className="btn btn-primary btn-lg btn-load-more"
                   >
                     Load more <i className="icon-reload" />
