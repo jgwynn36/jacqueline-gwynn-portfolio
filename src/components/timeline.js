@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer in Test <span>2012-present</span></h2>
-                        <p>I have been in a Quality Assurance role for the past 7 years.  I started as a QA Engineer specializing in project management and transitioned to a software engineer in test 2 years ago. A large portion of my responsibility is to inject quality into the development lifecycle early and educate others on the team of the importance of quality within development.  I currently spend most of my time writing code to automate the test and building sound regression suites to ensure that our end customers receive a highly functional application.</p>
+                        <p>I have been in a Quality Assurance role for the past 7 years.  I started as a QA Engineer specializing in project management and transitioned to a software engineer in test 2 years ago. A large portion of my responsibility is to inject quality into the development lifecycle early and educate others on the team members of the importance of quality within development.  I currently spend most of my time as a full stack engineer on the team writing code to automate the test and building sound regression suites to ensure that our end customers receive a highly functional application. I am also responsible for looking end-to-end as my current team owns UIs and APIs experiences.  I participate within writing the code for UI components and backup scrum master when needed.</p>
                       </div>
                     </div>
                   </article>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UNC Chapel Hill BootCamp Graduate<span>2018-2019</span></h2>
+                        <h2>UNC Chapel Hill BootCamp Graduate <span>2018-2019</span></h2>
                         <p>I recently completed a full stack developer engineer program offered at UNC Chapel Hill.  During this intense 6 month boot camp I gained hands on experience with frontend and backend development.  I have learned node, javascript, SQL, mongoDB, heroku, and react.</p>
                       </div>
                     </div>
