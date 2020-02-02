@@ -17,16 +17,13 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a full stack engineer from UNC Chapel Hill boot
-                        camp. I love learning and exploring new technologies
-                        and pushing myself to become the best developer I
-                        can be.
+                        I am a full stack developer working on an scrum team that supports account management projects for a financial company in Durham, NC.  I started supporting technology groups 8 years ago as a Quality Assurance Engineer.  About 6 years ago I transitioned into an Automation engineer.  During that time I began to enjoy coding and wanted to learn more about technology.  In 2019, I attended a boot camp at the UNC Chapel Hill for full-stack engineering.  I learned so much about end-to-end application development.  
                       </p>
                       <p>
-                        I have been in technology for 7 years. I was a self
-                        taught automation engineer until I recently made the
-                        choose to continue my education with a boot camp to
-                        enhance my skills and learn new technologies.
+                        I love learning and exploring new technologies and pushing myself to become the best developer I can be. Recently I began studying for the AWS Certified Developer certification.  Everyday I learn something new supporting multiple teams.  I am a change agent among my team.  I love learning new ways to influence the team and better processes to fix issues.  
+                      </p>
+                      <p>
+                        In my spare time, I enjoy watching television and spending time with my family.  I am pretty good a board games and love Sudoku.  I even go as far as to buy the books of Sudoku and can play for hours.  I am passionate about music and I used to play the clarinet.  I currently enjoy listening to my son learn the guitar and piano.  
                       </p>
                     </div>
                   </div>
@@ -64,6 +61,20 @@ export default class About extends Component {
                   </div>
                 </div>
               </div>
+                     <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                  <span className="icon">
+                    <i className="icon-bulb" />
+                  </span>
+                  <div className="desc">
+                    <h3>Middle Ware Development </h3>
+                    <p>
+                      I am learning API development using Java.    
+                    </p>
+                    <p />
+                  </div>
+                </div>
+              </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                   <span className="icon">
@@ -90,8 +101,11 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>
-                      I have approximately 4 years of experience using
-                      DevOps tools such as Git, AWS, Jenkins, and Docker.  
+                      I have approximately 5 years of experience using
+                      DevOps tools such as Git and Jenkins.  
+                    </p>
+                    <p>
+                      I have been using newer DevOps technologies such as Docker and AWS for the last 2 years.  
                     </p>
                   </div>
                 </div>
