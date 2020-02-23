@@ -4,9 +4,10 @@
   "private": true,
   "homepage": "https://jgwynn36.github.io/jacqueline-gwynn-portfolio",
   "dependencies": {
+    "@silevis/reactgrid": "^2.0.10",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
